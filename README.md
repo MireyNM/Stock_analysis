@@ -1,6 +1,3 @@
-# Challenge_2_Assignment 
-The submission of VBA case study 2
-
 # Stock-Analysis
 
 ## Overview of Project
